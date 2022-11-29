@@ -6,6 +6,7 @@ public class hehe {
 		// TODO Auto-generated method stub
 fghfgh
 a ver
+	Integer holi=0;
 	}
 
 }
